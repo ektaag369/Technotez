@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306327316289",
+    "project_id": "technotez",
+    "storage_bucket": "technotez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306327316289:android:d26dd3d7e4ecabd0b023c0",
+        "android_client_info": {
+          "package_name": "com.example.technotez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306327316289-55mgm1ljsvus2pce34gcmek4qcf48od7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi714ZSh243axEnBavj7oVdex48xKBJO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306327316289-55mgm1ljsvus2pce34gcmek4qcf48od7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
